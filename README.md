@@ -57,3 +57,6 @@ The tasks run concurrently, causing the LED to toggle at combined intervals as c
 This example is a simple demonstration of using FreeRTOS on STM32 MCUs to run multiple tasks simultaneously, managing LED toggling at different speeds. It’s a foundation to build more complex RTOS-based embedded applications.
 
 ---
+## Author
+
+- Deva Nanda S
